@@ -4,9 +4,6 @@
 # Comparativa de Modelos de Machine Learning: WDBC Dataset
 
 Este proyecto analiza el rendimiento de tres modelos de Machine Learning sobre el conjunto de datos **WDBC (Wisconsin Diagnostic Breast Cancer)**, variando el porcentaje de datos de entrenamiento desde el 10% hasta el 90%. Se evalúan tanto las precisiones de entrenamiento como de prueba, además de optimizar el hiperparámetro `k` en el clasificador k-NN.
-
-Además, se introducen fundamentos teóricos de cada modelo empleado basados en el manual "Introducción a la Inteligencia Artificial" (Universidad de Salamanca, 2021).
-
 ---
 
 ## Contenidos
